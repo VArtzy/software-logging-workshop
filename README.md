@@ -2,7 +2,9 @@
 
 ## Usage
 
-Buka materi, jalankan:
+Buka [website materi](vartzy.github.io/software-logging-workshop) atau jalankan:
+
+`npm i -g vitepress`
 
 `vitepress dev materi`
 
