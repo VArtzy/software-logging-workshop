@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev materi",
+    "docs:build": "vitepress build materi",
+    "docs:preview": "vitepress preview materi"
+  },
+  "type": "module",
+  "devDependencies": {
+    "vitepress-sidebar": "^1.31.0"
+  },
+  "dependencies": {
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "winston-transport": "^4.9.0"
+  }
+}
