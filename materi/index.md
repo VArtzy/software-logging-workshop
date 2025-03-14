@@ -11,7 +11,7 @@ hero:
       text: Start Lesson
       link: /introduction
     - theme: alt
-      text: glossary
+      text: Glossary
       link: /glossary
 
 features:
